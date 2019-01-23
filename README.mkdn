@@ -8,7 +8,7 @@ Getting started
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
-repo init -u git://github.com/syphonz/SyphonzRom_Android -b lineage-16.0
+repo init -u git://github.com/syphonz/SyphonzRom_Android -b SyphonzRom_Android lineageos-16.0
 ```
 Then to sync up:
 ```
